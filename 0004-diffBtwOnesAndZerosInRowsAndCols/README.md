@@ -40,8 +40,8 @@ Explanation:
  
 
 ### Constraints:
-m == grid.length
-n == grid[i].length
-1 <= m, n <= 105
-1 <= m * n <= 105
-grid[i][j] is either 0 or 1.
+* m == grid.length
+* n == grid[i].length
+* 1 <= m, n <= 105
+* 1 <= m * n <= 105
+* grid[i][j] is either 0 or 1.
